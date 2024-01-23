@@ -17,9 +17,6 @@ I'm an aspiring Full-Stack Developer, currently immersing myself in the world of
 - Aspiring Full-Stack Developer (interested in the MERN stack)
 - Git & GitHub Enthusiast
 
-## 📈 GitHub Stats
-
-(https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=[PreferredTheme])
 
 Embarking on a journey through the realms of code, one JavaScript line at a time. ☕👨‍💻
 
